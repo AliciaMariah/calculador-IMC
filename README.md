@@ -54,11 +54,6 @@ O código principal da calculadora está no arquivo `calculadora_imc.py`. Aqui e
 ## ![Imagem do WhatsApp de 2025-02-19 à(s) 16 58 51_9af4379f](https://github.com/user-attachments/assets/68000b46-1440-4a99-ab2b-829501e5f3a6)
 
 
-Em breve!
-
-## 🤝 Contribuições
-
-Contribuições são bem-vindas! Sinta-se à vontade para abrir uma *issue* ou enviar um *pull request*.
 
 
 ## 💡 Autor
